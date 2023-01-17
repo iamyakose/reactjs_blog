@@ -1,3 +1,13 @@
+#  Getting Started with json-server
+## Go to
+https://www.npmjs.com/package/json-server
+
+You can start the server
+
+npx json-server -p 3500 -w data/db.json
+
+visit https://jsonplaceholder.typicode.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
